@@ -3,7 +3,7 @@
 @media (max-width: 1600px) {
   /* For a screen < 1600px (initially 960px), this CSS will be read */
   .container {
-    width: 700px;
+    width: 1000px;
   }
   body {
     font-size: 16px;
